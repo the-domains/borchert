@@ -12,15 +12,15 @@ collections:
       path: '/:title/'
 typography_spectrum: 0.8763721392024308
 color:
-  saturation: 0.5571117943618447
-  brandStrength: 0.811670423252508
-  rhythmicContrast: 0.617304727435112
+  saturation: 0.04386282293125987
+  brandStrength: 0.4786764986347407
+  rhythmicContrast: 0.8448285204358399
   brandColors:
-    - '#334D5C'
-    - '#45B29D'
-    - '#EFC94C'
-    - '#E27A3F'
-    - '#DF5A49'
-  lightness: 0.4847207509446889
+    - '#FF8000'
+    - '#FFD933'
+    - '#CCCC52'
+    - '#8FB359'
+    - '#192B33'
+  lightness: 0.5871396074071527
 layout_spectrum: 0.2956989
 name: Chris Borchert
