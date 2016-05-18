@@ -1,0 +1,14 @@
+layout_spectrum: 0.7980872220359743
+typography_spectrum: 0.512392928590998
+color:
+  brandStrength: 0.6137298541143537
+  lightness: 0.5802661702036858
+  saturation: 0.2788271664176136
+  rhythmicContrast: 0.35369947575964034
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: borchert
