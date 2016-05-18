@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7789996184874326
+typography_spectrum: 0.8763721392024308
 color:
-  saturation: 0.6023822198621929
-  brandStrength: 0.4221372294705361
-  lightness: 0.29754569521173835
+  saturation: 0.5571117943618447
+  brandStrength: 0.811670423252508
+  lightness: 0.4847207509446889
   brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-  rhythmicContrast: 0.8348714511375874
-layout_spectrum: 0.7335459985770285
+    - '#334D5C'
+    - '#45B29D'
+    - '#EFC94C'
+    - '#E27A3F'
+    - '#DF5A49'
+  rhythmicContrast: 0.617304727435112
+layout_spectrum: 0.27753351838327944
 name: Chris Borchert
