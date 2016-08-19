@@ -10,11 +10,11 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.8763721392024308
+typography_spectrum: 0.3189964
 color:
-  saturation: 0.6863799
+  saturation: 1
   brandStrength: 0.4786764986347407
-  lightness: 0.7311828
+  lightness: 1
   brandColors:
     - '#FF8000'
     - '#FFD933'
